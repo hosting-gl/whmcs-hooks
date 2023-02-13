@@ -1,4 +1,12 @@
 <?php
+/**
+ * Add Hreflang to WHMCS
+ *
+ * @package     WHMCS
+ * @copyright   Hosting.gl ApS
+ * @link        https://hosting.gl
+ * @author      Thomas Gravesen <support@hosting.gl>
+ */
 
 if (!defined('WHMCS')) {
     die('You cannot access this file directly.');
