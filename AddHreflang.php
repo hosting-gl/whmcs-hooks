@@ -5,7 +5,7 @@
  * @package     WHMCS
  * @copyright   Hosting.gl ApS
  * @link        https://hosting.gl
- * @author      Thomas Gravesen <support@hosting.gl>
+ * @author      Gabor Koszegi <support@hosting.gl>
  */
 
 if (!defined('WHMCS')) {
